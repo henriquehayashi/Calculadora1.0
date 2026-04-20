@@ -1,11 +1,16 @@
-# Calculadora1.0
-Essa é a primeira versão da minha calculadora feita em python. Feita para aplicar meus conhecimentos sobre python e para melhor desenvolver meus estudos.
+# Calculadora 1.0
 
-Ela funciona da seguinte maneira:
-Número: qualquer número real
-Sinal: + - * / ** sqrt sin cos tan % (qrt, sin, cos e tan não gerarão o segundo número, ou seja, já sairá o resultado)
-Os valores para as funções trigonométricas estão todos em graus.
-Número: qualquer número real
+Este é um projeto de calculadora desenvolvido em Python, com o objetivo de aplicar e consolidar conhecimentos iniciais na linguagem.
 
-Ela ainda não está completa. Portanto, pode apresentar falhas ou bugs.
-Em breve trarei novas versões (mais completas e melhores)
+## Funcionalidades
+
+A calculadora permite realizar as seguintes operações:
+
+- Operações básicas: +, -, *, /, **
+- Raiz quadrada: sqrt
+- Funções trigonométricas: sin, cos, tan
+- Porcentagem: %
+
+### Observações:
+- As funções trigonométricas utilizam valores em graus
+- Operações como `sqrt`, `sin`, `cos` e `tan` utilizam apenas um número como entrada
